@@ -1,0 +1,43 @@
+<svg width="74" height="74" viewBox="0 0 74 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="74" height="74" fill="white"/>
+<g id="Pricing" clip-path="url(#clip0_0_1)">
+<rect width="1512" height="3425" transform="translate(-192 -2555)" fill="#201F25"/>
+<g id="Frame 94" clip-path="url(#clip1_0_1)">
+<rect width="1512" height="851" transform="translate(-192 -464)" fill="#201F25"/>
+<g id="Rectangle 24" filter="url(#filter0_bf_0_1)">
+<rect x="-192" y="-382" width="1512" height="584" fill="#201F26" fill-opacity="0.03"/>
+</g>
+<g id="Ellipse 22" filter="url(#filter1_f_0_1)">
+<ellipse cx="561.5" cy="-382" rx="383.5" ry="84" fill="#006DFF" fill-opacity="0.8"/>
+</g>
+</g>
+<g id="Frame 55">
+<circle id="Ellipse 10" cx="37" cy="37" r="34" stroke="url(#paint0_linear_0_1)" stroke-width="6" stroke-dasharray="15 15"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_bf_0_1" x="-392" y="-582" width="1912" height="984" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="100"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_1" result="shape"/>
+<feGaussianBlur stdDeviation="38.5" result="effect2_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_f_0_1" x="-262" y="-906" width="1647" height="1048" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="220" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<linearGradient id="paint0_linear_0_1" x1="37" y1="0" x2="37" y2="74" gradientUnits="userSpaceOnUse">
+<stop stop-color="#006DFF"/>
+<stop offset="0.505208" stop-color="#93B9EB" stop-opacity="0.843385"/>
+<stop offset="1" stop-color="#1F3F69" stop-opacity="0.69"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1512" height="3425" fill="white" transform="translate(-192 -2555)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1512" height="851" fill="white" transform="translate(-192 -464)"/>
+</clipPath>
+</defs>
+</svg>

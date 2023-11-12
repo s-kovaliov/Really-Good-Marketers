@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Login</title>
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no">
+	<!-- <style>body{opacity: 0;}</style> -->
+	<link rel="stylesheet" href="css/style.min.css?_v=20231112183549">
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- <meta name="robots" content="noindex, nofollow"> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div class="wrapper">
+		<main class="page">
+			<section class="page__login login">
+				<div class="login__container">
+					<div class="login__block">
+						<div class="login__pic">
+							<div data-watch-threshold="0.4" data-watch class="login__image-ibg">
+								<img data-src="img/login.svg" alt="Image">
+							</div>
+						</div>
+						<div class="login__form form-login">
+							<form action="#" method="POST">
+								<div class="form-login__info">
+									<div class="form-login__item">
+										<h2 class="form-login__title">Login</h2>
+										<div class="form-login__description">Welcome back, please login to your account.</div>
+									</div>
+									<div class="form-login__item _icon-login1">
+										<input class="form-login__input" id="01" name="login" type="text" required placeholder="username">
+									</div>
+									<div class="form-login__item _icon-login2">
+										<input class="form-login__input" id="04" name="password" type="password" required placeholder="password">
+									</div>
+									<div class="form-login__item form-login__item--footer">
+										<div class="form-login__checkbox checkbox">
+											<input id="c_1" data-error="Помилка" class="checkbox__input" type="checkbox" value="1" name="form[]">
+											<label for="c_1" class="checkbox__label"><span class="checkbox__text">Remember me</span></label>
+										</div>
+										<a href="#" class="form-login__link">Forgot password?</a>
+									</div>
+									<div class="form-login__item form-login__item--button">
+										<button type="submit" class="form-login__button">Login</button>
+									</div>
+								</div>
+							</form>
+						</div>
+						<form>
+							<input type="button" class="btn-primary" onclick="history.back()">
+						</form>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+	<script src="js/app.min.js?_v=20231112183549"></script>
+</body>
+
+</html>
